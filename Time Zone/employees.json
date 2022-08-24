@@ -1,0 +1,37 @@
+[
+    {
+        "id": 101,
+        "employee": "shahidul",
+        "offset": "-4",
+        "abbreviation": "EDT",
+        "zoneName": "America/New_York"
+    },
+    {
+        "id": 102,
+        "employee": "nishat",
+        "offset": "+6",
+        "abbreviation": "BST",
+        "zoneName": "Asia/Dhaka"
+    },
+    {
+        "id": 103,
+        "employee": "rizwan",
+        "offset": "+1",
+        "abbreviation": "BST",
+        "zoneName": "Europe/London"
+    },
+    {
+        "id": 104,
+        "employee": "shamsul",
+        "offset": "+1",
+        "abbreviation": "IST",
+        "zoneName": "Europe/Dublin"
+    },
+    {
+        "id": 105,
+        "employee": "akib",
+        "offset": "2.9",
+        "abbreviation": "CEST",
+        "zoneName": "Europe/Zurich"
+    }
+]
